@@ -11,3 +11,6 @@ I then used [this](https://github.com/naotokui/SpecGAN) repo for training my Spe
 ```
 python genDataset.py -i myAudioDir/ -o myOutputDir/
 ```
+
+#### Samples
+Here the [samples dir](/samples/) with some percussive examples extracted from [this song](https://www.youtube.com/watch?v=ybzSWlpgJOA).
